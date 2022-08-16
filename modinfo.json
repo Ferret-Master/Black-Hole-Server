@@ -1,0 +1,25 @@
+{
+    "context": "server",
+    "identifier": "com.pa.ferretmaster.black-hole-server",
+    "display_name": "black hole",
+    "description": "replaces the sun effect with a black hole",
+    "author": "Ferretmaster",
+    "version": "1.0",
+    "build": "115626",
+    "date": "2022-08-12",
+    "signature": "not yet implemented",
+    "forum": "",
+    "icon": "",
+    "priority": 100,
+    "category": [
+        "titans", "in-game","server"
+        
+    ],
+    "scenes": {
+		
+		"live_game": [
+			"coui://ui/mods/black_hole/live_game.js"
+		]
+	  }
+
+}
