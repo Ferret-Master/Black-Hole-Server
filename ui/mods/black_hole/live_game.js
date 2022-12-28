@@ -21,7 +21,7 @@ model.systemUISettings = {//settings
 	deleteResetDuration:3,
 	autoDeleteAmount:10,
 	snap:0,
-	scale:5000,
+	scale:2300,
 	travelSpeed:10,
 
 }
