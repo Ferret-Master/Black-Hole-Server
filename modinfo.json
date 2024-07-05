@@ -5,11 +5,11 @@
     "description": "replaces the sun effect with a black hole",
     "author": "Ferretmaster",
     "version": "1.0",
-    "build": "115626",
-    "date": "2022-08-12",
+    "build": "120799",
+    "date": "2024-07-06",
     "signature": "not yet implemented",
     "forum": "",
-    "icon": "",
+    "icon": "https://raw.githubusercontent.com/Ferret-Master/Black-Hole-Server/main/black_hole_icon.PNG",
     "priority": 100,
     "category": [
         "titans", "in-game","server"
