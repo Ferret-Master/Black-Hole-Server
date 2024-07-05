@@ -1,8 +1,8 @@
 {
     "context": "server",
     "identifier": "com.pa.ferretmaster.black-hole-server",
-    "display_name": "black hole",
-    "description": "replaces the sun effect with a black hole",
+    "display_name": "black hole server",
+    "description": "replaces the sun effect with a black hole, affects everyone",
     "author": "Ferretmaster",
     "version": "1.0",
     "build": "120799",
