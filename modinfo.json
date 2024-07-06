@@ -2,7 +2,7 @@
     "context": "server",
     "identifier": "com.pa.ferretmaster.black-hole-server",
     "display_name": "black hole server",
-    "description": "replaces the sun effect with a black hole, affects everyone",
+    "description": "replaces the sun effect with a black hole visual only effect, affects everyone",
     "author": "Ferretmaster",
     "version": "1.0",
     "build": "120799",
@@ -12,7 +12,7 @@
     "icon": "https://raw.githubusercontent.com/Ferret-Master/Black-Hole-Server/main/black_hole_icon.PNG",
     "priority": 100,
     "category": [
-        "titans", "in-game","server"
+        "titans", "in-game","server","effects"
         
     ],
     "scenes": {
